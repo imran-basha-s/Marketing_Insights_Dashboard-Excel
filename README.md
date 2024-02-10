@@ -32,12 +32,11 @@ The cleaned dataset, now comprising 1000 rows and 14 columns, is also available 
 
 The points below outline the approach adopted in this project:
 
-1.	Two additional sheets were added for "Pivot Chart & Dashboard".<br>
-2.	Duplicate values were eliminated, and abbreviations were substituted with full terms. Additionally, a column named “Age Group” was introduced.<br>
-3.	Extensive data preprocessing was conducted to ensure accuracy and uniformity in the data format.<br>
-4.	Microsoft Excel was employed for data cleaning, preprocessing, and creating all visualizations and the dashboard.<br>
-5.	A variety of visualization types, including bar charts, column charts, pie charts, and doughnut charts, were utilized to develop a comprehensive dashboard.<br>
-6.	The dashboard design embodies an executive and formal theme.<br>
+1.	Duplicate values were eliminated, and abbreviations were substituted with full terms. Additionally, a column named “Age Group” was introduced.<br>
+2.	Extensive data preprocessing was conducted to ensure accuracy and uniformity in the data format.<br>
+3.	Microsoft Excel was employed for data cleaning, preprocessing, and creating all visualizations and the dashboard.<br>
+4.	A variety of visualization types, including bar charts, column charts, pie charts, and doughnut charts, were utilized to develop a comprehensive dashboard.<br>
+5.	The dashboard design embodies an executive and formal theme.<br>
 
 
 
