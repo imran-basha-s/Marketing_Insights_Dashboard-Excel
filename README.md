@@ -4,7 +4,7 @@
 
 ## Introduction
 
-With an increased emphasis on healthier and environmentally friendly choices, the demand for bicycles is on the rise. The dataset comprises around 1000 users and their corresponding background details, which may or may not influence their purchasing decisions.
+With an increased emphasis on healthier and environmentally friendly choices, the demand for bicycles is on the rise. The dataset comprises around 1000 users and their corresponding background details, which may influence their purchasing decisions.
 
 The project aims to examine customer behaviour and demographics to gain a better understanding of market demand. 
 
